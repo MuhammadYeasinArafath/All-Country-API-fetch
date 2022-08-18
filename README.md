@@ -5,5 +5,4 @@ All Country API
 <br>
 Country name & Population.
 <br>
-Live Link:https://mdyeasinarafath.github.io/All-Country-API/
-  
+Live Link: https://muhammadyeasinarafath.github.io/All-Country-API-fetch/
